@@ -1,0 +1,21 @@
+{
+  "name": "sandbox",
+  "version": "1.0.0",
+  "description": "This is a spot for working on HTML, CSS, and Javascript exercises.",
+  "main": "index.html",
+  "scripts": { "start": "lite-server"},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bsebesta/sandbox.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bsebesta/sandbox/issues"
+  },
+  "homepage": "https://github.com/bsebesta/sandbox#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
