@@ -1,2 +1,2 @@
 # sandbox
-This is a spot for working on HTML, CSS, and Javascript exercises, drawing from [a mix](https://www.joshwcomeau.com/blog/how-to-learn-stuff-quickly/#mixing-guided-and-unguided-learning) of guided and unguided learning.
+This is a spot for working on HTML, CSS, and Javascript exercises, drawing from [a mix](https://www.joshwcomeau.com/blog/how-to-learn-stuff-quickly/#mixing-guided-and-unguided-learning) of guided and unguided learning. Whereas [memorization and foundational learning](https://github.com/bsebesta/learning-dev-flashcards), it doesn't mean squat unless I put it into practice, day-in, day-out, until I'm really, *really* good at this stuff. This is my playground for tinker.
